@@ -2,6 +2,17 @@
 
 # OnOff SHIM für Raspberry PI
 
+[![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-green)](LICENSE)
+[![Revision](https://img.shields.io/badge/Revision-0.1-blue)](#kicad-umsetzung)
+[![Status](https://img.shields.io/badge/Status-Entwurf-orange)](#kicad-umsetzung)
+[![KiCad 10](https://img.shields.io/badge/KiCad-10-314CB0?logo=kicad&logoColor=white)](https://www.kicad.org/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-40--Pin%20Header-C51A4A?logo=raspberrypi&logoColor=white)](https://pinout.xyz/pinout/onoff_shim)
+[![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-5%20A%20Variante-C51A4A?logo=raspberrypi&logoColor=white)](#kicad-umsetzung-5a)
+[![Eingang](https://img.shields.io/badge/Eingang-USB--C%205%20V-lightgrey)](#kicad-umsetzung)
+[![Strom](https://img.shields.io/badge/Strom-3%20A%20%7C%205%20A-yellow)](#kicad-umsetzung-5a)
+[![Gerber](https://img.shields.io/badge/Fertigung-Gerber%20%2B%202%20oz%20(5%20A)-informational)](#gerber-dateien-für-die-fertigung)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/internauten)
+
 Dies ist ein Versuch das OnOff SHIME von Pimoroni nach zu bauen.
 
 ## Funktionsweise
