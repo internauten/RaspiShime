@@ -15,7 +15,7 @@
 
 Dies ist ein Versuch das OnOff SHIME von Pimoroni nach zu bauen.
 
-> [!ATENTION]  
+> [!WARNING]  
 > Diese Module wurden noch nicht getestet!
 
 Die meisten Artefakte wurden mittels AI (Anthropic Sonnet 5.5) generiert und nur dort manuell angepasst wo die AI scheiterte.
