@@ -1,0 +1,64 @@
+# KiCad: Sperr-, Backup- und Cache-Dateien
+~*.lck
+*.lck
+*-backups/
+*-bak
+*.bak
+_autosave-*
+fp-info-cache
+*.kicad_prl
+\#auto_saved_files#
+
+# KiCad: erzeugte Ausgaben (aus den Quelldateien reproduzierbar)
+gerber/
+**/gerber/
+*.gbrjob
+*-job.gbrjob
+*.rpt
+*.drl
+*.gbr
+*-drl_map.*
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+# Hinweis: gerber/ wird bewusst nicht versioniert. Fuer einen Release als ZIP anhaengen.
+
+# 3D-Modelle: Quelle (.py) und Ergebnis (.step) bleiben im Repository
+# Vorschaubilder und Zwischenergebnisse nicht
+3d/*.png
+3d/*.log
+3d/*.brep
+
+# Python / CadQuery
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+cqenv/
+*.egg-info/
+.pytest_cache/
+
+# Rendergrafiken und temporaere Dateien
+render*.png
+r_*.png
+*.tmp
+*.temp
+*.orig
+*.rej
+
+# Editor und Betriebssystem
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code: lokale Einstellungen
+.claude/settings.local.json
+.claude/scratchpad/
+*.zip

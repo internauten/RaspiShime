@@ -1,0 +1,39 @@
+{
+  "version": "0.2",
+  "language": "en,de-CH",
+  "ignorePaths": [
+    "kicad/**",
+    "kicad5A/**"
+  ],
+  "words": [
+    "CadQuery",
+    "e-marked",
+    "Elkos",
+    "Silkscreen",
+    "Protel",
+    "HASL",
+    "Gerber",
+    "gerber",
+    "gerbers",
+    "Excellon",
+    "excellon",
+    "ENIG",
+    "gerendert",
+    "EEPROM",
+    "kicad",
+    "KIPRJMOD",
+    "nachgebaut",
+    "NVM",
+    "PDO",
+    "Pimoroni",
+    "Pinout",
+    "PTC",
+    "Raspi",
+    "Schaltplanseite",
+    "Shime",
+    "SPST",
+    "STUSB",
+    "TVS",
+    "VBUS"
+  ]
+}
